@@ -1,8 +1,8 @@
-#############################
+
 #                           #
 #   Bitmap Converter Tool   #
 #                           #
-#############################
+
 
 
 - Converts 16 pixel wide bitmap files (file extension .bmp) to the format 
